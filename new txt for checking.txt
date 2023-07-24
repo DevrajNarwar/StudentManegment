@@ -1,12 +1,10 @@
 
 just for demo purposes 
-
 nothing else
-
 this is changed by raj "dev branch"
-<<<<<<< HEAD
+
 changed by some QA branch
-=======
+
 
 
 3rd line  nothing in my my for this line so 
@@ -14,4 +12,5 @@ changed by some QA branch
 i've wrote this just like that 
 
 this is by some (dev)
->>>>>>> 168cda4c3683dd3496081c21f6c61f2b51b13f9b
+
+changed by some QA branch
